@@ -1,2 +1,3 @@
 # lymphoma_tvec_study
-Scripts used for the T-VEC lymphoma study
+Scripts and config files used for the T-VEC lymphoma study
+
